@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy Inc.
 
 ##Purpose
 a website that offers training services 
@@ -12,3 +12,5 @@ https://thomaskyle.github.io/Run-Buddy/
 
 ##Contribution
 Made with <3 by Thomas Kyle
+
+###©️2019 Run Buddy
